@@ -53,7 +53,7 @@
             btnBorrar.BackColor = Color.Gray;
             btnBorrar.Font = new Font("Verdana", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
             btnBorrar.ForeColor = SystemColors.Window;
-            btnBorrar.Location = new Point(12, 557);
+            btnBorrar.Location = new Point(12, 547);
             btnBorrar.Name = "btnBorrar";
             btnBorrar.Size = new Size(150, 40);
             btnBorrar.TabIndex = 23;
@@ -66,7 +66,7 @@
             label5.AutoSize = true;
             label5.Font = new Font("Verdana", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label5.ForeColor = SystemColors.Control;
-            label5.Location = new Point(138, 467);
+            label5.Location = new Point(138, 456);
             label5.Name = "label5";
             label5.Size = new Size(106, 25);
             label5.TabIndex = 22;
@@ -74,7 +74,7 @@
             // 
             // txtCorreo
             // 
-            txtCorreo.Location = new Point(138, 495);
+            txtCorreo.Location = new Point(138, 484);
             txtCorreo.Name = "txtCorreo";
             txtCorreo.Size = new Size(298, 27);
             txtCorreo.TabIndex = 21;
@@ -84,7 +84,7 @@
             label4.AutoSize = true;
             label4.Font = new Font("Verdana", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label4.ForeColor = SystemColors.Control;
-            label4.Location = new Point(138, 390);
+            label4.Location = new Point(138, 379);
             label4.Name = "label4";
             label4.Size = new Size(131, 25);
             label4.TabIndex = 20;
@@ -92,7 +92,7 @@
             // 
             // txtTelefono
             // 
-            txtTelefono.Location = new Point(138, 418);
+            txtTelefono.Location = new Point(138, 407);
             txtTelefono.Name = "txtTelefono";
             txtTelefono.Size = new Size(298, 27);
             txtTelefono.TabIndex = 19;
@@ -187,7 +187,7 @@
             btnActualizar.BackColor = Color.Gray;
             btnActualizar.Font = new Font("Verdana", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
             btnActualizar.ForeColor = SystemColors.Window;
-            btnActualizar.Location = new Point(184, 557);
+            btnActualizar.Location = new Point(184, 547);
             btnActualizar.Name = "btnActualizar";
             btnActualizar.Size = new Size(169, 40);
             btnActualizar.TabIndex = 26;
@@ -200,7 +200,7 @@
             btnCerrar.BackColor = Color.Gray;
             btnCerrar.Font = new Font("Verdana", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
             btnCerrar.ForeColor = SystemColors.Window;
-            btnCerrar.Location = new Point(373, 557);
+            btnCerrar.Location = new Point(373, 547);
             btnCerrar.Name = "btnCerrar";
             btnCerrar.Size = new Size(150, 40);
             btnCerrar.TabIndex = 27;

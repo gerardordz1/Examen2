@@ -114,7 +114,7 @@
             label4.AutoSize = true;
             label4.Font = new Font("Verdana", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label4.ForeColor = SystemColors.Control;
-            label4.Location = new Point(66, 402);
+            label4.Location = new Point(66, 392);
             label4.Name = "label4";
             label4.Size = new Size(131, 25);
             label4.TabIndex = 8;
@@ -122,7 +122,7 @@
             // 
             // txtTelefono
             // 
-            txtTelefono.Location = new Point(66, 430);
+            txtTelefono.Location = new Point(66, 420);
             txtTelefono.Name = "txtTelefono";
             txtTelefono.Size = new Size(298, 27);
             txtTelefono.TabIndex = 7;
@@ -132,7 +132,7 @@
             label5.AutoSize = true;
             label5.Font = new Font("Verdana", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label5.ForeColor = SystemColors.Control;
-            label5.Location = new Point(66, 479);
+            label5.Location = new Point(66, 469);
             label5.Name = "label5";
             label5.Size = new Size(106, 25);
             label5.TabIndex = 10;
@@ -140,7 +140,7 @@
             // 
             // txtCorreo
             // 
-            txtCorreo.Location = new Point(66, 507);
+            txtCorreo.Location = new Point(66, 497);
             txtCorreo.Name = "txtCorreo";
             txtCorreo.Size = new Size(298, 27);
             txtCorreo.TabIndex = 9;
