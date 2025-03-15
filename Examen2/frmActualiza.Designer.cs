@@ -231,7 +231,7 @@
             Controls.Add(txtAPaterno);
             Controls.Add(pictureBox1);
             Name = "frmActualiza";
-            Text = "frmActualiza";
+            Text = "Actualiza";
             Load += frmActualiza_Load;
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ResumeLayout(false);
